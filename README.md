@@ -1,7 +1,13 @@
-# 📦 compraFácil
+# 🛒 compraFácil
 
-Plataforma de e-commerce fullstack com área administrativa e área de usuário, desenvolvida com foco em arquitetura organizada, autenticação segura e separação de responsabilidades.
+![Node.js](https://img.shields.io/badge/backend-Node.js-green)
+![Vue.js](https://img.shields.io/badge/frontend-Vue.js-brightgreen)
+![Express](https://img.shields.io/badge/Express-black)
+![JWT](https://img.shields.io/badge/JWT-auth-blue)
 
+## 📌 Visão Geral
+
+O compraFácil é uma plataforma de e-commerce...
 ---
 
 ## 🚀 Sobre o Projeto
