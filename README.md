@@ -50,10 +50,11 @@ O carrinho funciona como entidade intermediária entre usuários e produtos, per
 - Node.js
 - Express
 - JWT
-- Banco de dados relacional
+- MySQL
 - Arquitetura em camadas (Controller / Service / Repository)
 
 ### Frontend
+- Axios
 - Vue.js
 - Vite
 - Estrutura modular de componentes
